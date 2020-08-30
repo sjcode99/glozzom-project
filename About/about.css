@@ -9,6 +9,9 @@
   .r-circle{
     margin-top: -50px;
   }
+  .card-body{
+    border-radius: .25rem
+  }
     .carousel-inner{
     height: 170px;
     padding: 5px;

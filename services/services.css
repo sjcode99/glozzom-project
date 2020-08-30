@@ -1,0 +1,25 @@
+.services-head{
+    background: url("../img/image2.jpg");
+    height: 200px;
+    background-position: 0px -360px;
+    color:#fff;
+    background-attachment: fixed;
+    padding-top: 50px;
+
+}
+.list-group-flush{
+    margin: 0 1.25rem;
+    border: inherit;
+
+}
+.button-margin{
+    margin:9px 18px;
+}
+.card-flush{
+    background: #333;
+    color: #fff;
+    
+}
+.footer{
+    background-color: black;
+}
