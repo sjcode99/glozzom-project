@@ -1,3 +1,14 @@
+.nav-link{
+  color: rgba(255,255,255,.5) !important;
+}
+.nav-link:hover{
+  color: #fff !important;
+}
+.active{
+  border-left: #444 3px solid !important;
+  color:#fff !important;
+}
+
 .carousel-item {
   height: 450px;
   background-size: cover;

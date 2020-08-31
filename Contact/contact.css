@@ -1,0 +1,22 @@
+
+.nav-link{
+  color: rgba(255,255,255,.5) !important;
+}
+.nav-link:hover{
+  color: #fff !important;
+}
+.active{
+  border-left: #444 3px solid !important;
+  color:#fff !important;
+}
+.contact-head{
+    background: url("../img/image1.jpg");
+    height: 200px;
+    background-position: 0px -350px;
+    color:#fff;
+    background-attachment: fixed;
+    padding-top: 50px;
+  } 
+  .footer {
+    background-color: black;
+  }

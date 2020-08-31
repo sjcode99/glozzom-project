@@ -1,25 +1,33 @@
-.services-head{
-    background: url("../img/image2.jpg");
-    height: 200px;
-    background-position: 0px -360px;
-    color:#fff;
-    background-attachment: fixed;
-    padding-top: 50px;
+.nav-link {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+.nav-link:hover {
+  color: #fff !important;
+}
+.active{
+  border-left: #444 3px solid !important;
+  color: #fff !important;
+}
 
+.services-head {
+  background: url("../img/image2.jpg");
+  height: 200px;
+  background-position: 0px -360px;
+  color: #fff;
+  background-attachment: fixed;
+  padding-top: 50px;
 }
-.list-group-flush{
-    margin: 0 1.25rem;
-    border: inherit;
-
+.list-group-flush {
+  margin: 0 1.25rem;
+  border: inherit;
 }
-.button-margin{
-    margin:9px 18px;
+.button-margin {
+  margin: 9px 18px;
 }
-.card-flush{
-    background: #333;
-    color: #fff;
-    
+.card-flush {
+  background: #333;
+  color: #fff;
 }
-.footer{
-    background-color: black;
+.footer {
+  background-color: black;
 }
