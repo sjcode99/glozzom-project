@@ -11,13 +11,16 @@
 }
 @media (max-width: 500px) {
   .carousel-inner{
-    max-height: 305px;
+    max-height: 280px;
   }
   
   .form-group {
     display: block;
     width: 100%;
     margin-bottom: 0;
+  }
+  .active {
+    border-left: 0 !important;
   }
 }
 
@@ -28,7 +31,7 @@
   color: #fff !important;
 }
 .nav-item > .active {
-  border-left: #444 3px solid !important;
+  border-left: #444 3px solid;
   color: #fff !important;
 }
 
